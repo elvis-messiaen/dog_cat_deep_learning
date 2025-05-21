@@ -1,5 +1,5 @@
 # DL_challenge_classification_dogs_cats
-# **Classification d'images : Chats vs Chiens avec CNN**
+## **Classification d'images : Chats vs Chiens avec CNN**
 
 ## **Description du projet**
 Ce projet utilise un **réseau de neurones convolutifs (CNN)** pour classifier des images de chats et de chiens.  
