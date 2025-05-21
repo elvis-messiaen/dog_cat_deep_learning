@@ -16,12 +16,12 @@ Le modèle prend en entrée des images de taille **128x128 pixels** et prédit s
 
 
 deep_learning/ │── data/ │ ├── pets/ │ │ ├── train/ 
-# Dossier des images d'entraînement (chats et chiens) │ │ ├── test/ 
-# Dossier des images de test (chats et chiens) │── model.py  
-# Fichier contenant la définition du modèle CNN │── train.py  
-# Script pour entraîner le modèle │── test.py  
-# Script pour tester le modèle et afficher les résultats │── README.md  
-# Documentation du projet
+### Dossier des images d'entraînement (chats et chiens) │ │ ├── test/ 
+### Dossier des images de test (chats et chiens) │── model.py  
+### Fichier contenant la définition du modèle CNN │── train.py  
+### Script pour entraîner le modèle │── test.py  
+### Script pour tester le modèle et afficher les résultats │── README.md  
+### Documentation du projet
 
 
 ## **Installation et configuration**
